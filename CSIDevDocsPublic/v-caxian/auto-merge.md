@@ -7,7 +7,7 @@ title: "VS Code Authoring Extension"
 author: V-CAXIAN
 ms.author: v-caxian
 manager: arthurya
-ms.date:  10/29/2016
+ms.date:  02/13/2019
 ms.topic: article
 #ms.prod:
 #ms.service:
