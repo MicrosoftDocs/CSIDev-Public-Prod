@@ -4,7 +4,7 @@
 title: "VS Code Authoring Extension"
 #description:
 #keywords:
-author: TinaLiuGirl
+author: PRMerger16
 ms.author: v-caxian
 manager: arthurya
 ms.date:  10/29/2016
