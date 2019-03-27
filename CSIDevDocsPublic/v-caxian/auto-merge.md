@@ -9,10 +9,10 @@ ms.author: v-caxian
 manager: arthurya
 ms.date:  10/29/2016
 ms.topic: article
-ms.prod: myproduct
-ms.service: myservice
-ms.subservice: mysubservice
-ms.technology: mytechnology
+#ms.prod: myproduct
+#ms.service: myservice
+#ms.subservice: mysubservice
+#ms.technology: mytechnology
 ms.assetid: c44deb70-bd5b-4efa-bcee-4e4b4c8f418c
 
 # optional metadata
