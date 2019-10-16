@@ -7,7 +7,7 @@ ms.subservice: authentication
 ms.topic: article
 ms.date: 01/15/2018
 ms.author: bharney0
-author: bharney0
+author: bharney
 manager: daveba
 ms.reviewer: annaba
 
