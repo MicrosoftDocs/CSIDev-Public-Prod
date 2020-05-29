@@ -39,7 +39,13 @@
       "extendBreadcrumb": true,
       "feedback_system": "None"
     },
-    "fileMetadata": {},
+    "fileMetadata": {
+      "author": {
+        "bharney/**.md": "bharney-msft",
+        "adunndevster/**.md": "adunndevster",
+        "articles/topic1/subtopic/*.md": "lamebrain"
+      }
+    },
     "template": [],
     "dest": "CSIDev-Public-Prod",
     "markdownEngineName": "markdig"
