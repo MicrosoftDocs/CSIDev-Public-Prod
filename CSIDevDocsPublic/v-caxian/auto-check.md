@@ -33,6 +33,6 @@ ms.reviewer: martinof
 
 ## Synopsis
 # [.NET Core 2.x(#tab/netcore2x)
-`dotnet [command] [arguments] [--additional-deps] [--additionalprobingpath] [-d|--diagnostics] [--fx-version] [-h|--help] [--info] [--roll-forward-on-no-candidate-fx] [-v|--verbose] [--version]`
+`dotnet [command] [arguments] [--additional-deps] [--additionalprobingpath] [-d|--diagnostics] [--fx-version] [-h|--help] [--info] [--roll-forward-on-no-candidate-fx] [-v|--verbose] [--version]`...
 
 ---
