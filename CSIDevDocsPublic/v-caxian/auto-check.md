@@ -1,7 +1,7 @@
 ---
 # required metadata
 
-title: "VS Code Authoring Extension"
+title: "VS Code Authoring Extension test 1"
 #description:
 #keywords:
 author: TinaLiuGirl
@@ -10,7 +10,7 @@ manager: arthurya
 ms.date:  10/29/2016
 ms.topic: article
 #ms.prod:
-#ms.service:
+ms.service: svc/test
 #ms.technology:
 ms.assetid: c44deb70-bd5b-4efa-bcee-4e4b4c8f418c
 
@@ -32,7 +32,7 @@ ms.reviewer: martinof
 `dotnet` - General driver for running the command-line commands.
 
 ## Synopsis
-# [.NET Core 2.x(#tab/netcore2x)
+# [.NET Core test 2.x(#tab/netcore2x)
 `dotnet [command] [arguments] [--additional-deps] [--additionalprobingpath] [-d|--diagnostics] [--fx-version] [-h|--help] [--info] [--roll-forward-on-no-candidate-fx] [-v|--verbose] [--version]`...
 
 ---
